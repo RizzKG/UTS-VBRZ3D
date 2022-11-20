@@ -1,0 +1,15 @@
+C:\Users\BISILLAH NAWAITU\Source\Repos\UTS-VB\UTS-VB\obj\Debug\net6.0\UTS-VB.vbproj.AssemblyReference.cache
+C:\Users\BISILLAH NAWAITU\Source\Repos\UTS-VB\UTS-VB\obj\Debug\net6.0\UTS-VB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BISILLAH NAWAITU\Source\Repos\UTS-VB\UTS-VB\obj\Debug\net6.0\UTS-VB.AssemblyInfoInputs.cache
+C:\Users\BISILLAH NAWAITU\Source\Repos\UTS-VB\UTS-VB\obj\Debug\net6.0\UTS-VB.AssemblyInfo.vb
+C:\Users\BISILLAH NAWAITU\Source\Repos\UTS-VB\UTS-VB\obj\Debug\net6.0\UTS-VB.vbproj.CoreCompileInputs.cache
+C:\Users\BISILLAH NAWAITU\Source\Repos\UTS-VB\UTS-VB\bin\Debug\net6.0\UTS-VB.exe
+C:\Users\BISILLAH NAWAITU\Source\Repos\UTS-VB\UTS-VB\bin\Debug\net6.0\UTS-VB.deps.json
+C:\Users\BISILLAH NAWAITU\Source\Repos\UTS-VB\UTS-VB\bin\Debug\net6.0\UTS-VB.runtimeconfig.json
+C:\Users\BISILLAH NAWAITU\Source\Repos\UTS-VB\UTS-VB\bin\Debug\net6.0\UTS-VB.dll
+C:\Users\BISILLAH NAWAITU\Source\Repos\UTS-VB\UTS-VB\bin\Debug\net6.0\UTS-VB.pdb
+C:\Users\BISILLAH NAWAITU\Source\Repos\UTS-VB\UTS-VB\obj\Debug\net6.0\UTS-VB.dll
+C:\Users\BISILLAH NAWAITU\Source\Repos\UTS-VB\UTS-VB\obj\Debug\net6.0\refint\UTS-VB.dll
+C:\Users\BISILLAH NAWAITU\Source\Repos\UTS-VB\UTS-VB\obj\Debug\net6.0\UTS-VB.pdb
+C:\Users\BISILLAH NAWAITU\Source\Repos\UTS-VB\UTS-VB\obj\Debug\net6.0\UTS-VB.genruntimeconfig.cache
+C:\Users\BISILLAH NAWAITU\Source\Repos\UTS-VB\UTS-VB\obj\Debug\net6.0\ref\UTS-VB.dll
